@@ -1,5 +1,5 @@
-const clientId = '9cbd6f8faad140ccbbb80d86cbfd4538';
-let redirectUri = 'http://localhost:3000/'
+const clientId = '7ce19974a1964353a05396afb501971b';
+let redirectUri = 'http://mason-spotify.surge.sh/'
 let accessToken;
 
 const Spotify = {
